@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+build/
+
+# The sandbox credential. Never commit.
+.env
+.env.local
+.env*.local
+
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+._*
+.vercel
+
+.local-data/
